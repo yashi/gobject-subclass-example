@@ -1,0 +1,1 @@
+An example code to demonstrate creating GObject / GstElement sub-class
